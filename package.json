@@ -1,0 +1,22 @@
+{
+  "name": "css3-flexbox",
+  "version": "1.0.0",
+  "description": "A Visual Guide to CSS3 Flexbox Properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-tutorial/CSS3-Flexbox.git"
+  },
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-tutorial/CSS3-Flexbox/issues"
+  },
+  "homepage": "https://github.com/web-tutorial/CSS3-Flexbox#readme",
+  "dependencies": {
+    "angular": "^1.4.3"
+  }
+}
